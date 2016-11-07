@@ -1,3 +1,6 @@
+<html>
+<body>
+
 # assignment17.github.io
 
 Governor Pat McCrory continues to lag far behind his opponent for North Carolina governor, Democratic candidate and state attorney general Roy Cooper, in campaign donations.  However, the two candidates remain practically tied in the latest polls.  
@@ -41,3 +44,6 @@ Greensboro has been a major fundraising win for the Cooper campaign, with more t
 Donations aren’t necessarily a prediction of how certain areas will vote.  There were around 46,000 donations between both Cooper and McCrory in the third quarter, which, even if assuming each donation is equal to one unique individual, is only 0.7 percent of the 6.9 million people eligible to vote in North Carolina.  But it is reflective of a late October poll by Siena College showing higher Democratic votes in urban areas where Cooper is drawing most of his financial support.  
 
 Whether Cooper’s deep pockets and strong presence in North Carolina’s population centers are enough to propel him to victory remain to be seen.  Despite the financial disadvantage and negative national attention due to HB2, McCrory’s defense of the bill has not alienated his base which helped him win by a landslide in 2012.  He’s been able to fall back on the economic growth he’s overseen in the state, offsetting to an extent what was lost in HB2’s fallout.  He’s setting up for a bitter final battle that will likely drag late into Tuesday night before a winner finally emerges.  
+
+</body>
+</html>
