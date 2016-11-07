@@ -24,6 +24,8 @@ Guillory added he wasn’t surprised that the polls showed a razor-thin margin b
 
 <b>Where is the money coming from?</b>  
 
+<img src="https://cloud.githubusercontent.com/assets/23082391/20061595/73314240-a4ce-11e6-9514-dad74cc027b5.png" alt="McCrory Heat Map" > 
+
 Looking at a heatmap of the top 1000 donations for each candidate weighted by amount, it’s clear Cooper’s donations are heavily concentrated in the urban areas of the state, like Charlotte, Greensboro, Asheville and Durham.  Though McCrory has received some donations from those urban areas, particularly Raleigh, most of his donations are spread out in the more rural areas of the state.  
 
 McCrory has done well in eastern North Carolina, which was the most heavily affected by Hurricane Matthew, and has a heavy concentration of donations from Fayetteville totaling more than $111,000.  He’s also done stronger than Cooper in the area surrounding New Bern and the far western parts of the state, including Asheville.  
