@@ -24,11 +24,15 @@ Guillory added he wasn’t surprised that the polls showed a razor-thin margin b
 
 <b>Where is the money coming from?</b>  
 
-<img src="https://cloud.githubusercontent.com/assets/23082391/20061595/73314240-a4ce-11e6-9514-dad74cc027b5.png" alt="McCrory Heat Map" > 
-
 Looking at a heatmap of the top 1000 donations for each candidate weighted by amount, it’s clear Cooper’s donations are heavily concentrated in the urban areas of the state, like Charlotte, Greensboro, Asheville and Durham.  Though McCrory has received some donations from those urban areas, particularly Raleigh, most of his donations are spread out in the more rural areas of the state.  
 
-McCrory has done well in eastern North Carolina, which was the most heavily affected by Hurricane Matthew, and has a heavy concentration of donations from Fayetteville totaling more than $111,000.  He’s also done stronger than Cooper in the area surrounding New Bern and the far western parts of the state, including Asheville.  
+<img src="https://cloud.githubusercontent.com/assets/23082391/20061595/73314240-a4ce-11e6-9514-dad74cc027b5.png" alt="McCrory Heat Map" >
+<font size="1"> Pat McCrory's donations heat map </font>
+
+McCrory has done well in eastern North Carolina, which was the most heavily affected by Hurricane Matthew, and has a heavy concentration of donations from Fayetteville totaling more than $111,000.  He’s also done stronger than Cooper in the area surrounding New Bern and the far western parts of the state, including Asheville.
+
+<img src="https://cloud.githubusercontent.com/assets/23082391/20061604/78ab1f84-a4ce-11e6-8e40-1c90a427d810.png" alt="Cooper Heat Map">
+Roy Cooper's donations heat map
 
 But while McCrory hasn’t done poorly in Charlotte, where he was the mayor from 1995-2009, Cooper’s reach has extended further up both I-85 and I-77.  Hickory, a town where the economy has been heavily impacted by the withdrawal of the furniture manufacturing industry, has donated $47,000 to Cooper’s campaign compared to around $25,000 for McCrory.  
 
